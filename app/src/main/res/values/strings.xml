@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Paw Prints</string>
+    <string name="title_activity_maps">Paw Prints</string>
+    <string name="your_location_center_button_text">Your Location</string>
+    <string name="pet_location_center_button_text">Pet Location</string>
+    <string name="menu_button_text">Menu</string>
+    <string name="sync_button_text">Sync</string>
+    <string name="add_phone_number_text">Enter the phone number associated with your SIM card.</string>
+    <string name="enter_button_text">Enter</string>
+</resources>
